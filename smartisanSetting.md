@@ -3,6 +3,7 @@
 ## 第一步：开启辅助功能
 
 点击快速跳转图标 - 点击“抬手唤醒屏幕” - 打开
+![系统设置界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a1.png)
 ![①](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/s1.png)
 ![②](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/s2.png)
 ![③](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/s3.png)
