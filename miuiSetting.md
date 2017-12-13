@@ -7,31 +7,31 @@ MIUI系统默认会将后台的软件在一定时间后自动冻结，在锁屏�
 
 ### 1.进入系统设置
 当您打开系统设置后，请找到“电量和性能”选项，点击进入它。
-![系统设置界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a1.png)
+![系统设置界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a1.png)
 
 ### 2.进入场景配置
 当您打开“电量和性能”后，请找到“场景配置”选项，点击进入它。
-![电量和性能界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a2.png)
+![电量和性能界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a2.png)
 
 ### 3.关闭睡眠模式
 当您打开“场景配置”后，请找到“睡眠模式”选项，确保它已经关闭。
-![场景配置界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a4.png)
+![场景配置界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a4.png)
 
 ### 4.进入省电优化
 返回上一级的“场景配置”界面，请找到“省电优化”选项，点击进入它。
-![电量和性能界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a3.png)
+![电量和性能界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a3.png)
 
 ### 5.进入应用智能省电
 当您打开“省电优化”界面后，请找到“应用智能省电”选项，点击进入它。
-![省电优化界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a9.png)
+![省电优化界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a9.png)
 
 ### 6.进入“抬手唤醒”
 当您打开“应用智能省电”界面后，请找到“抬手唤醒”，点击进入它。
-![应用智能省电界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a5.png)
+![应用智能省电界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a5.png)
 
 ### 7.设置“抬手唤醒”后台无限制
 当您打开“抬手唤醒”后台配置界面后，请选择“无限制”，点击以选择。
-![“抬手唤醒”后台配置界面](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a6.png)
+![“抬手唤醒”后台配置界面](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a6.png)
 
 ## 恭喜，经过上述操作后您已经完成了抬手唤醒在MIUI9系统中设置白名单的操作
 如果您需要更方便使用，可以锁定后台后设置后台不显示，这样方便清理内存时不会误杀抬手唤醒。
@@ -40,11 +40,11 @@ MIUI系统默认会将后台的软件在一定时间后自动冻结，在锁屏�
 
 ### 1.打开后台切换界面
 请切换至MIUI的后台切换界面，下拉抬手唤醒的缩略图，此时右上角会显示一个锁定的图标，锁定完成。
-![在后台锁定“抬手唤醒”](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a7.png)
+![在后台锁定“抬手唤醒”](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a7.png)
 
 ### 2.设置“抬手唤醒”不在后台显示
 请进入“抬手唤醒”APP，点击左上角的菜单，进入设置界面，开启“在后台任务界面中隐藏”选项。
-![在后台锁定“抬手唤醒”](https://github.com/kongzue/Res/blob/master/app/src/main/res/mipmap-xxxhdpi/a8.png)
+![在后台锁定“抬手唤醒”](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/a8.png)
 
 此时，您在MIUI9中设置抬手唤醒后台白名单的操作已经全部完成。
 
