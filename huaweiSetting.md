@@ -1,4 +1,5 @@
 # 华为EMUI8.0设置抬手唤醒为后台白名单
+（By 飞驰的音符）
 ### 1：最近任务
 在最近任务中点击对应app上的锁型标志。
 ![](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/h1.png)
