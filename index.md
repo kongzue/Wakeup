@@ -2,11 +2,11 @@
 
 以下为部分示例，
 
-![Smartisan](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_smartisan.png)锤子手机系列点击此处
+![Smartisan](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_smartisan.png)[锤子手机系列点击此处](https://kongzue.github.io/Wakeup/smartisanSetting)
 
-![MIUI](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_miui.png)小米手机系列点击此处
+![MIUI](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_miui.png)[小米手机系列点击此处](https://kongzue.github.io/Wakeup/miuiSetting)
 
-![Huawei](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_huawei.png)华为手机系列点击此处
+![Huawei](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_huawei.png)[华为手机系列点击此处](https://kongzue.github.io/Wakeup/huaweiSetting)
 
 VIVO
 - 后台长按锁定
