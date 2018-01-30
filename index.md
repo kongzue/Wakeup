@@ -1,5 +1,9 @@
 请务必按照你已知的方式，在锁屏/后台清理、省电优化、后台智能运行等功能中排除抬手唤醒。并允许开机自启。
 
+即使都设置好了，部分手机系统为了省电，锁屏后仍然会强制清理/冻结后台，甚至开了后台强力稳定（启用辅助功能）都没用。出现抬起不亮/延迟，不是软件bug，无需反馈。
+
+我们也很无奈。。。
+
 以下为部分示例，
 
 ![Smartisan](https://github.com/kongzue/Res/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_smartisan.png)[锤子手机系列点击此处](https://kongzue.github.io/Wakeup/smartisanSetting)
